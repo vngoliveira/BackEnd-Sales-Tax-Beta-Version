@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.sales.GoodsTypesTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-03-20T11:34:10" hostname="DESKTOP-Q49L1F3" time="0.026">
+  <properties/>
+  <testcase name="testFromValue_InvalidOption_ThrowsGoodsInvalidOptionExceptions()" classname="org.sales.GoodsTypesTest" time="0.026"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
