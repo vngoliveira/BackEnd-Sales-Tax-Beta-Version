@@ -25,7 +25,7 @@ Products are imported and taxed are taxed at both rates on their value. But nati
 </p>
 <h2>Technologies and techniques</h2>
 <li>Java 17</li>
-<li>Gradle 8</li>
+<li>Gradle 7</li>
 <li>IntelliJ IDEA</li>
 <li>Object-oriented programming</li>
 
