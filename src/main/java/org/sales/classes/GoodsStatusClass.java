@@ -1,6 +1,6 @@
 package org.sales.classes;
 
-import org.sales.GoodsStatus;
+import org.sales.enums.GoodsStatus;
 import org.sales.entity.Goods;
 import org.sales.exceptions.GoodsInvalidOptionExceptions;
 

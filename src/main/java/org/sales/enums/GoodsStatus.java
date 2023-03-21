@@ -1,4 +1,4 @@
-package org.sales;
+package org.sales.enums;
 
 import org.sales.exceptions.GoodsInvalidOptionExceptions;
 

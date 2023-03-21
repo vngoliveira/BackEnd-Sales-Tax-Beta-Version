@@ -1,6 +1,6 @@
 package org.sales.classes;
-import org.sales.GoodsTypes;
 import org.sales.entity.Goods;
+import org.sales.enums.GoodsTypes;
 import org.sales.exceptions.GoodsInvalidOptionExceptions;
 
 import java.util.Scanner;

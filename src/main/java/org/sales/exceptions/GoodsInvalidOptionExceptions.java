@@ -6,6 +6,3 @@ public class GoodsInvalidOptionExceptions extends Exception{
         super(message);
     }
 }
-
-
-

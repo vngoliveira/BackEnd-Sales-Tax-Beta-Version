@@ -2,6 +2,8 @@ package org.sales;
 import org.sales.classes.GoodsStatusClass;
 import org.sales.classes.GoodsTypesClass;
 import org.sales.entity.Goods;
+import org.sales.enums.GoodsStatus;
+import org.sales.enums.GoodsTypes;
 import org.sales.exceptions.GoodsInvalidOptionExceptions;
 
 import java.math.BigDecimal;
@@ -84,13 +86,13 @@ public class Main {
     }
 
     public static void listStatus() {
-        for (org.sales.GoodsStatus goodsStatus : org.sales.GoodsStatus.values()) {
+        for (GoodsStatus goodsStatus : GoodsStatus.values()) {
             System.out.println(goodsStatus.ordinal() + " - " + goodsStatus);
         }
     }
 
     public static void listTypes() {
-        for (org.sales.GoodsTypes goodsTypes : org.sales.GoodsTypes.values()) {
+        for (GoodsTypes goodsTypes : GoodsTypes.values()) {
             System.out.println(goodsTypes.ordinal() + " - " + goodsTypes);
         }
     }
