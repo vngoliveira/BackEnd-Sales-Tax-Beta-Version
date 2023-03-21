@@ -5,13 +5,32 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7e724ed2-2ff8-48a6-a731-f772e82c9c50" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.gradle/7.4/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.4/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/7.4/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.4/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/7.4/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.4/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/7.4/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.4/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/7.4/fileHashes/resourceHashesCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.4/fileHashes/resourceHashesCache.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/file-system.probe" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/file-system.probe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/sales/Goods.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/sales/entity/Goods.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/sales/GoodsStatus.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/sales/enums/GoodsStatus.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/sales/GoodsStatusClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/sales/classes/GoodsStatusClass.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/sales/GoodsTypes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/sales/enums/GoodsTypes.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/sales/GoodsTypesClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/sales/classes/GoodsTypesClass.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/sales/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/sales/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/test/org/sales/GoodsTypesTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/test/org/sales/GoodsTypesTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/test/org/sales/MainTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/test/org/sales/MainTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/classes/org.sales.GoodsTypesTest.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/css/base-style.css" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/css/base-style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/js/report.js" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/js/report.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/packages/org.sales.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/packages/org.sales.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/test-results/test/TEST-org.sales.GoodsTypesTest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/test-results/test/binary/output.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/binary/output.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/test-results/test/binary/output.bin.idx" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/binary/output.bin.idx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/test-results/test/binary/results.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/binary/results.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/tmp/compileTestJava/previous-compilation-data.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/tmp/compileTestJava/previous-compilation-data.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/sales/GoodsTypesTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/sales/GoodsTypesTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/org/sales/MainTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/sales/MainTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -52,7 +71,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GitSEFilterConfiguration">
     <file-type-list>
@@ -81,14 +100,23 @@
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.12873563" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.DirectoryMappings" />
   </component>
-  <component name="RunManager" selected="Gradle.GoodsTypesTest.testFromValue_InvalidOption_ThrowsGoodsInvalidOptionExceptions">
+  <component name="RunManager" selected="Gradle.MainTest.testCalculateTaxes">
+    <configuration default="true" type="LiferayDockerServerConfiguration" factoryName="Liferay Docker Server">
+      <option name="passParentEnvironments" value="true" />
+      <option name="workspaceLocation" value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.sales.Main" />
       <module name="SalesTaxExercise.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.sales.entity.*" />
+          <option name="PATTERN" value="org.sales.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -142,7 +170,7 @@
       <DebugAllEnabled>false</DebugAllEnabled>
       <method v="2" />
     </configuration>
-    <configuration name="MainTest.firstExampleInput (1)" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+    <configuration name="MainTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
@@ -155,7 +183,7 @@
           <list>
             <option value=":test" />
             <option value="--tests" />
-            <option value="&quot;org.sales.MainTest.firstExampleInput&quot;" />
+            <option value="&quot;org.sales.MainTest&quot;" />
           </list>
         </option>
         <option name="vmOptions" />
@@ -165,39 +193,36 @@
       <DebugAllEnabled>false</DebugAllEnabled>
       <method v="2" />
     </configuration>
-    <configuration name="SalesTaxExercise [dependencies]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+    <configuration name="MainTest.testCalculateTaxes" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
         <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" />
+        <option name="scriptParameters" value="" />
         <option name="taskDescriptions">
           <list />
         </option>
         <option name="taskNames">
           <list>
-            <option value="dependencies" />
+            <option value=":test" />
+            <option value="--tests" />
+            <option value="&quot;org.sales.MainTest.testCalculateTaxes&quot;" />
           </list>
         </option>
         <option name="vmOptions" />
       </ExternalSystemSettings>
-      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
       <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
       <DebugAllEnabled>false</DebugAllEnabled>
       <method v="2" />
     </configuration>
-    <configuration default="true" type="LiferayDockerServerConfiguration" factoryName="Liferay Docker Server">
-      <option name="passParentEnvironments" value="true" />
-      <option name="workspaceLocation" value="$PROJECT_DIR$" />
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Gradle.GoodsTypesTest.testFromValue_InvalidOption_ThrowsGoodsInvalidOptionExceptions" />
-        <item itemvalue="Gradle.GoodsTypesTest.testFromValue_ValidOption_ReturnsGoodsType" />
-        <item itemvalue="Gradle.MainTest.firstExampleInput (1)" />
-        <item itemvalue="Gradle.SalesTaxExercise [dependencies]" />
+        <item itemvalue="Gradle.MainTest.testCalculateTaxes" />
         <item itemvalue="Application.Main" />
+        <item itemvalue="Gradle.MainTest" />
+        <item itemvalue="Gradle.GoodsTypesTest.testFromValue_ValidOption_ReturnsGoodsType" />
+        <item itemvalue="Gradle.GoodsTypesTest.testFromValue_InvalidOption_ThrowsGoodsInvalidOptionExceptions" />
       </list>
     </recent_temporary>
   </component>
@@ -210,6 +235,7 @@
       <option name="presentableId" value="Default" />
       <updated>1679102829613</updated>
       <workItem from="1679102830861" duration="93989000" />
+      <workItem from="1679368500566" duration="6593000" />
     </task>
     <servers />
   </component>
