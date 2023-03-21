@@ -84,13 +84,13 @@ public class Main {
     }
 
     public static void listStatus() {
-        for (GoodsStatus goodsStatus : GoodsStatus.values()) {
+        for (org.sales.GoodsStatus goodsStatus : org.sales.GoodsStatus.values()) {
             System.out.println(goodsStatus.ordinal() + " - " + goodsStatus);
         }
     }
 
     public static void listTypes() {
-        for (GoodsTypes goodsTypes : GoodsTypes.values()) {
+        for (org.sales.GoodsTypes goodsTypes : org.sales.GoodsTypes.values()) {
             System.out.println(goodsTypes.ordinal() + " - " + goodsTypes);
         }
     }

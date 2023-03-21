@@ -1,4 +1,5 @@
 package org.sales.classes;
+import org.sales.GoodsTypes;
 import org.sales.entity.Goods;
 import org.sales.exceptions.GoodsInvalidOptionExceptions;
 
@@ -8,7 +9,7 @@ public class GoodsTypesClass {
 
     GoodsTypes goodsTypes;
 
-    GoodsTypesClass(int goodsTypes) throws GoodsInvalidOptionExceptions {
+    public GoodsTypesClass(int goodsTypes) throws GoodsInvalidOptionExceptions {
         this.goodsTypes = GoodsTypes.fromValue(goodsTypes);
   }
 
